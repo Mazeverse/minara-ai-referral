@@ -1,11 +1,12 @@
-# Minara.ai Referral Landing Page
+# Minara.ai Referral Landing
 
-Files included:
-- `index.html`
-- `robots.txt`
-- `sitemap.xml`
+Landing page for **Minara.ai referral code 982YR5**.
 
-## Deploy
-1. Upload these files to a GitHub repository.
-2. Import the repository into Vercel.
-3. Update the canonical URL, og:url, and sitemap URL if your final domain is different from `https://minara-ai-referral.vercel.app/`.
+Live site:
+https://minara-ai-referral.vercel.app/
+
+Features:
+- Copy referral code
+- AI crypto trading platform promotion
+- SEO meta tags
+- Vercel deployment ready
